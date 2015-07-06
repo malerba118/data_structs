@@ -1,5 +1,9 @@
 # data_structs
 
+Some fun with data structures and algorithms!
+
+Standard output of each of the projects is shown below.
+
     DFS_BFS output:
 
     Graph: {A=[U], B=[C], C=[M], D=[S, D], E=[A, O, L, S], F=[A], G=[K], H=[R, R], I=[E], J=[C], K=[O], L=[C], M=[I], N=[R], O=[A, P, F, K], P=[N], Q=[N], R=[H, L], S=[], T=[O, E], U=[G, C], V=[I], W=[F], X=[A], Y=[I], Z=[Z]}
